@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HelloGoodbyeAD</string>
+    <string name="action_settings">Settings</string>
+
+    <!--String used for exclaim button-->
+    <string name="exclaim_btn">Exclamation</string>
+
+    <!--String used for output of exclaim button-->
+    <string name="hello">Hello</string>
+    <string name="goodbye">Goodbye!</string>
+
+    <!--String used for the poking button-->
+    <string name="poke_btn">Poke Me!</string>
+    <!--String used for output of poking button-->
+    <string name="ouch">OUCH!</string>
+    <string name="poked">Poke!</string>
+
+
+
+    <!--description of the image of the girl-->
+    <string name="exclaim_img">Exclamation Image</string>
+</resources>
