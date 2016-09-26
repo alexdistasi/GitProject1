@@ -14,6 +14,7 @@
     <!--String used for output of poking button-->
     <string name="ouch">OUCH!</string>
     <string name="poked">Poke!</string>
+    <string name="sam">Samantha Rhodes</string>
 
 
 
